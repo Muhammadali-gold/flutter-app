@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203921310598",
+    "project_id": "my-cool-px",
+    "storage_bucket": "my-cool-px.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203921310598:android:acf059eaebffe41416e207",
+        "android_client_info": {
+          "package_name": "com.dreamsoft.djump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203921310598-dirh9naijqj46s3vvphprellmqj44keu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYHId5fAYGQR9KvpUFTzanYZJQOC0k4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203921310598-dirh9naijqj46s3vvphprellmqj44keu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
